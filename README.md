@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @zamouni
+- 👀 I’m interested in deskto developement and web 
+- 🌱 I’m currently learning java and c#
+- 💞️ I’m looking to collaborate on c# projects and even javafx projects if possible
+- 📫 instagram : youssef_Azzaz_12
+- ⚡ Fun fact: Gamer
